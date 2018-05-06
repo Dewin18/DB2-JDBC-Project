@@ -27,3 +27,5 @@ target/
 /bin/
 *.ucls
 *.xcf
+
+*.properties
